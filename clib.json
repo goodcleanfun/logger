@@ -1,0 +1,9 @@
+{
+  "name": "logging",
+  "version": "0.1.0",
+  "repo": "goodcleanfun/logging",
+  "description": "Simple cross-platform header-only logging in C",
+  "keywords": ["logging"],
+  "license": "MIT",
+  "src": ["src/logging.h"]
+}
